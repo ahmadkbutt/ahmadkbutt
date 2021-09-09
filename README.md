@@ -28,7 +28,7 @@ Hi, I'm Ahmad Khalid Butt, a JS Developer 🚀 from Pakistan, currently, I'm a C
 - 🤔 I’m looking for help with Data Structures and Algorithms 😭
 - 💬 Ask me about anything, I am happy to help
 - ⚡️ Fun-Fact: I started helping industry entering aspirants
-- 📫 How to reach me: ahmadkhalidbutt@hotmail.com
+- 📫 How to reach me: ahmekhalidbutt@gmail.com
 - 📝[Resume](https://drive.google.com/file/d/1KmYSjv87QxKPuS30IWQtPX6LJBaXjZoc/view)
 
 **Languages and Tools:**  
@@ -47,6 +47,6 @@ Hi, I'm Ahmad Khalid Butt, a JS Developer 🚀 from Pakistan, currently, I'm a C
 
 
 
-![Ahmad's github stats](https://github-readme-stats.vercel.app/api?username=ahmadkbutt&show_icons=true&hide_border=true)
+![Ahmad's github stats](https://github-readme-stats.vercel.app/api?username=ahmedkhalidbutt&show_icons=true&hide_border=true)
 
 
